@@ -1,5 +1,5 @@
 # Showcase
-![Alt Text](https://github.com/abdymm/rn-tiles-puzzle/blob/master/showcase/ezgif-7-97b112268ce2.gif)
+![Alt Text](https://github.com/abdymm/rn-like-dislike-content/blob/master/showcase/showcase.gif)
 
 
 # Likes Dislikes Sample App
