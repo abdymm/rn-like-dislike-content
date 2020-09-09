@@ -18,6 +18,3 @@ Counting Likes and Dislikes of item
 - React Native
 - Redux
 - Redux Saga
-
-### Technology Used
-- Redux Thunk
